@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaniellaMomo
-- 👀 I’m interested in tech
+- 👀 I’m a tech enthusiast
 - 🌱 I’m currently learning how to code 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
